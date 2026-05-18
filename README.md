@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Manuel Alonso</h1>
 <p align="center">
-  Soy un <strong>Desarrollador Web y Desktop</strong> enfocado en crear aplicaciones funcionales y atractivas. Actualmente, estoy cursando la universidad para especializarme como desarrollador de software y cuento con un título técnico en programación por parte del CECyTE.
+  Soy un <strong>Desarrollador Web y Desktop</strong> enfocado en crear aplicaciones funcionales y atractivas. Actualmente, estoy cursando la universidad para especializarme como desarrollador de software multiplataforma en UPEMOR y cuento con un título técnico en programación por parte del CECyTE.
 </p>
 
 <p align="center">
