@@ -17,8 +17,8 @@
   <tr style="border-bottom: 1px solid #ddd;">
     <th style="padding: 10px;">Frontend</th>
     <th style="padding: 10px;">Backend</th>
-    <th style="padding: 10px;">Bases de Datos</th>
-    <th style="padding: 10px;">Otros <br/>menos desarrollados</th>
+    <th style="padding: 10px;">DB</th>
+    <th style="padding: 10px;">Menos <br/> desarrollados</th>
   </tr>
   <tr style="border-bottom: 1px solid #ddd;">
     <td align="center" style="padding: 10px;">
@@ -35,9 +35,10 @@
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://img.shields.io/badge/-PHP-4479A1?logo=php&logoColor=white" alt="PHP"><br>
+      <img src="https://img.shields.io/badge/-Java-E34F26?logo=openjdk&logoColor=white" alt="Java"><br>
       <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white" alt="Flutter"><br>
-      <img src="https://img.shields.io/badge/-Java-E34F26?logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"><br>
+      <img src="https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=kotlin" alt="Kotlin"><br>
     </td>
   </tr>
 </table>
